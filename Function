@@ -1,0 +1,6 @@
+function add(a,b){        //function declaration with parameters a and b
+console.log(a+b);
+}
+
+add(2,3)                  // function invoking
+add(4,5)
